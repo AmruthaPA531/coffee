@@ -1,0 +1,203 @@
+body{
+    background-image:url(./coffeemain.jpg);
+    background-size:100%; 
+    background-repeat: no-repeat;
+    position: relative;
+
+    background-color: rgb(207, 168, 136);}
+    
+body h1{
+    text-align: center;
+    color: rgb(250, 243, 243);
+    margin-top: 50px;
+    font-size: 50px;
+}
+body h3{
+    text-align: center;
+    color: rgb(243, 237, 234);
+    font-style: italic;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+nav{
+    position: fixed;
+    padding: 0px 0px;
+    top: 0px;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+    border-bottom: 1px solid #fff;
+}
+nav ul{
+    list-style: none;
+    float: right;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav ul li a{
+    line-height: 50px;
+    color: #fff;
+    padding: 12px 12px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+h2{
+    color: rgb(73, 16, 16);
+    font-style: oblique;
+    margin-left: 500px;
+    margin-top: 400px;
+    font-size: 40px;
+}
+
+
+
+p{
+    text-align: left;
+    font-size: 20px;
+
+}
+.cof1{
+    background-color: rgb(204, 182, 168);
+    height: 300px;
+    width: 800px;
+    margin-top: 600px;
+    text-align: left;
+    color: darkblue;
+    margin-left: 0px;
+    padding: 20px;
+
+
+}
+.cof1 img{
+    margin-top: -175px;
+    margin-left: 830px;
+    height: 300px;
+    width: 400px;
+}
+.cof3{
+    border: solid 2px rgb(200, 201, 223) ;
+margin-top: 100px;
+width: 100%;
+background-color: rgb(221, 201, 176);
+padding: 20px;
+}
+.cof3 img{
+margin-left: 0px;
+height: 200px;
+width: 200px;
+margin-top: 0px;
+padding: 20px;
+}
+.cof3 img{
+    margin-left: 300px;
+margin-top: 0px;
+height:200px ;
+width: 500px;
+}
+.cof2{  
+  border: solid 2px rgb(35, 36, 71);
+margin-top: 100px;
+background-color: burlywood;
+padding: 20px;
+}
+.images{
+    height: 500px;
+    width: 100%;
+    border: solid 2px rgb(209, 205, 205);
+    
+    background-color: rgb(170, 147, 118);
+    display: flex;
+    justify-content: space-between;
+    
+}
+.col1{
+    height: 400px;
+    width: 250px;
+    
+    
+    
+}
+.col2{
+    height: 600px;
+    width: 250px;
+    
+    
+    
+}
+.col3{
+    height: 600px;
+    width: 250px;
+   
+}
+.col4{
+    height: 600px;
+    width: 250px;
+    
+}
+.col5{
+    height: 600px;
+    width: 250px;
+        
+}
+.images img{
+    height: 200px;
+    width: 250px;
+    margin-left: 0px;
+    margin-top: 100px ;
+}
+h4{
+    font-size: 40px;
+    font-style: normal;
+    text-align: center;
+}
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(10, 8, 8);
+    display: flex;
+    justify-content: space-between;
+}
+.col6{
+    height: 200px;
+    width: 400px;
+}
+
+.col7{
+    height: 200px;
+    width: 400px;
+
+}
+.col8{
+    height: 200px;
+    width: 400px;
+
+}
+.footer li{
+    text-align: center;
+    color: honeydew;
+    
+}
+.health{
+    background-color: rgb(248, 150, 133);
+height: 350px;
+width: 100%;
+margin-top: 100px;
+
+
+}
+.health img{
+    height: 200px;
+    width: 300px;
+    margin-top:0 ;
+    margin-left: 0;
+}
+.health p{
+    margin-left: 350px;
+    margin-top: -210px;
+    padding: 12px;
+}
